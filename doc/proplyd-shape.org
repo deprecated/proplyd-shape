@@ -1,0 +1,13 @@
+Applying the planitude and alatude to proplyds
+* Related projects
++ I have another similar project [[file:~/Dropbox/proplyds-vs-bowshocks/proplyds-vs-bowshocks.org][proplyds-vs-bowshocks.org]] but the focus is different.
+  + That was inspired by the so-called proplyds in the galactic center
+  + They have no stars as far as I can see, and they look more like bow shocks
+* TODO Plan of action  
+1. [ ] [2019-05-10 Fri] Find suitable observational material
+   - For the Orion proplyds this will be basically the same as for the LL arcs
+   - But I also want to look at other proplyds and EGGS, etc
+     - Carina, and elsewhere
+2. [ ] Measure shapes with [[file:~/Dropbox/circle-fit/circle_fit.py]]
+3. [ ] Compare with tail length
+4. [ ] Compare with dark disk axis ratio and orientation (where available)
